@@ -71,8 +71,8 @@ Photoshop, Procreate, Adobe Xd et Canva sont mes alliés de choix en design, cha
                            src="/images/damien-dagory.png"
                            alt="photo portfolio dagory damien" 
                            className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
-                           width={200}
-                           height={200}
+                           width={500}
+                           height={500}
                           />
                     </div>
             </motion.div>
