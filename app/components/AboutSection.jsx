@@ -60,7 +60,7 @@ const AboutSection = () => {
 
 Animé par une soif d&apos;apprendre et une curiosité sans fin, j&apos;ai acquis mes compétences de manière autodidacte, explorant et expérimentant pour comprendre en profondeur ce domaine fascinant.
 
-Ce que j&apos;apprécie particulièrement, c&apos;est de transformer mon travail en un hobby passionnant. Le développement pour moi, c&apos;est plus qu&apos;un métier, c&apos;est une véritable passion qui me permet de m&apos;éxprimer et de créer. 
+Ce que j&apos;apprécie particulièrement, c&apos;est de transformer mon travail en un hobby passionnant. Le développement pour moi, c&apos;est plus qu&apos;un métier, c&apos;est une véritable passion qui me permet de m&apos;exprimer et de créer. 
                     </p>
                 <div className='flex flex-row justify-start mt-8'>
                     <TabButton
