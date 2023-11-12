@@ -44,8 +44,7 @@ const EmailSection = () => {
             <h5 className='text-xl font-bold text-white my-2'> Me contacter</h5>
             <p className='text-[#ADB7BE] mb-4 max-w-md'>
                 {""}
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium illo, magnam tenetur itaque est fugit magni, quae aspernatur laborum ratione exercitationem maxime, minus soluta 
-                dolor necessitatibus earum autem velit eius!
+                Vous avez une idée de projet à concrétiser ? Besoin de conseil pour organiser et développer vos concepts ? N&apos;hésitez pas à me contacter. Je serais ravi de mettre à profit mon expertise et ma créativité pour transformer vos idées en réalités. Ensemble, explorons les possibilités et donnons vie à vos projets
             </p>
             <div className='socials flex flex-row gap-2'>
                 <Link href="https://github.com/dam824">

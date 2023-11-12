@@ -10,55 +10,55 @@ const projectsData = [
         id: 1,
         title: "Quick-Parking",
         description: "Projet Quick-parking",
-        image:"/images/projects/projet-img-test.png",
+        image:"/images/projects/quick-parking.png",
         tag: ['Tous mes projets', 'Web'],
         gitUrl: "/",
-        previewUrl: "/"
+        previewUrl: "https://quick-parking.fr/"
     },
     {
         id: 2,
         title: "Nova-groupe",
         description: "Projet Nova-groupe",
-        image:"/images/projects/projet-img-test.png",
+        image:"/images/projects/novagroupe.png",
         tag: ['Tous mes projets', 'Web'],
         gitUrl: "/",
-        previewUrl: "/"
+        previewUrl: "https://novagroupe.eu/"
     },
     {
         id: 3,
         title: "SMR",
         description: "Projet SMR",
-        image:"/images/projects/projet-img-test.png",
+        image:"/images/projects/smr.png",
         tag: ['Tous mes projets', 'Web'],
         gitUrl: "/",
-        previewUrl: "/"
+        previewUrl: "https://smr-marseille.fr/"
     },
     {
         id: 4,
         title: "So Delicious",
         description: "Projet So Delicious",
-        image:"/images/projects/projet-img-test.png",
+        image:"/images/projects/so-delicious.png",
         tag: ['Tous mes projets', 'E-commerce'],
-        gitUrl: "/",
+        gitUrl: "https://gitlab.com/dam824/sodelicious",
         previewUrl: "/"
     },
     {
         id: 5,
         title: "Pangolins",
         description: "Projet Pangolin",
-        image:"/images/projects/projet-img-test.png",
+        image:"/images/projects/pangolin.png",
         tag: ['Tous mes projets', 'API'],
-        gitUrl: "/",
+        gitUrl: "https://github.com/dam824/friend-network",
         previewUrl: "/"
     },
     {
         id: 6,
         title: "Design",
         description: "Projet Design",
-        image:"/images/projects/projet-img-test.png",
+        image:"/images/projects/kconcept.png",
         tag: ['Tous mes projets', 'Design'],
         gitUrl: "/",
-        previewUrl: "/"
+        previewUrl: "https://kconceptcoiffure.fr/"
     },
 ]
 

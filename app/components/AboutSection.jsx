@@ -56,9 +56,11 @@ const AboutSection = () => {
             <div className='className="mt-4 md:mt-0 text-left flex flex-col h-full'>
                 <h2 className='text-4xl font-bold text-white mb-4'>A propos de moi</h2>
                     <p className='text-base md:text-lg'>
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio fugiat id voluptatum neque cum doloremque eveniet suscipit necessitatibus deleniti labore 
-                        quidem sunt itaque cumque, eligendi possimus est 
-                        explicabo ad placeat?
+                    Ma carrière a pris un tournant décisif lorsque j&apos;ai décidé de suivre ma passion et de me consacrer entièrement au développement, un domaine où la créativité trouve son plein épanouissement.
+
+Animé par une soif d&apos;apprendre et une curiosité sans fin, j&apos;ai acquis mes compétences de manière autodidacte, explorant et expérimentant pour comprendre en profondeur ce domaine fascinant.
+
+Ce que j&apos;apprécie particulièrement, c&apos;est de transformer mon travail en un hobby passionnant. Le développement pour moi, c&apos;est plus qu&apos;un métier, c&apos;est une véritable passion qui me permet de m&apos;éxprimer et de créer. 
                     </p>
                 <div className='flex flex-row justify-start mt-8'>
                     <TabButton

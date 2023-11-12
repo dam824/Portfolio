@@ -3,6 +3,7 @@ import React from "react";
 import Image from "next/image";
 import { TypeAnimation } from 'react-type-animation';
 import { motion } from "framer-motion";
+import Link from "next/link";
 
 const HeaderSection = () => {
     return (
@@ -37,28 +38,39 @@ const HeaderSection = () => {
                     />
                 </h1>
                     <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero magnam dolorem exercitationem nesciunt repellat, delectus perspiciatis inventore ullam pariatur a aperiam est animi mollitia quis laborum aliquam rerum. Nesciunt, amet.
+                    Créateur de solutions digitales, je suis polyvalent avec la conceptualisation de design UI/UX, le référencement, ainsi que le développement et la maintenance de projets web, que ce soit en front-end ou back-end.
+Photoshop, Adobe Xd et Canva sont mes alliés de choix en design, chacun apportant sa touche de magie à mes créations. Côté développement, j’ai une préférence pour les framework NextJS, Angular et Symfony. Un trio dynamique qui me permet de transformer les idées en réalités digitales captivantes
+
                     </p> 
                 <div>
-                    <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white">
-                        Contactez-moi vite
-                    </button>
-                    <button className="px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-400 hover:bg-slate-800 text-white mt-3">
-                        <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">télécharger mon cv</span>
-                    </button>
+                    <Link
+                    href="/contact"
+                    className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white"
+                    >
+                    Contact
+                    </Link>
+                    <Link
+                    href="/"
+                    className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-400 hover:bg-slate-800 text-white mt-3"
+                    >
+                     <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
+                     Download cv
+                     </span>   
+                    </Link>
                 </div>      
             </motion.div>
             <motion.div 
                      initial={{opacity:0,scale: 0.5}} 
                      animate={{opacity:1, scale: 1}} 
-                     transition={{duration:0.5}}  className="col-span-4 place-self-center mt-4 lg:mt-0">
+                     transition={{duration:0.5}}  
+                     className="col-span-4 place-self-center mt-4 lg:mt-0">
                     <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
                           <Image 
                            src="/images/damien-dagory.png"
                            alt="photo portfolio dagory damien" 
                            className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
-                           width={300}
-                           height={300}
+                           width={200}
+                           height={200}
                           />
                     </div>
             </motion.div>
