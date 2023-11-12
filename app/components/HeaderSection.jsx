@@ -39,7 +39,7 @@ const HeaderSection = () => {
                 </h1>
                     <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
                     Créateur de solutions digitales, je suis polyvalent avec la conceptualisation de design UI/UX, le référencement, ainsi que le développement et la maintenance de projets web, que ce soit en front-end ou back-end.
-Photoshop, Adobe Xd et Canva sont mes alliés de choix en design, chacun apportant sa touche de magie à mes créations. Côté développement, j’ai une préférence pour les framework NextJS, Angular et Symfony. Un trio dynamique qui me permet de transformer les idées en réalités digitales captivantes
+Photoshop, Procreate, Adobe Xd et Canva sont mes alliés de choix en design, chacun apportant sa touche de magie à mes créations. Côté développement, j’ai une préférence pour les framework NextJS, Angular et Symfony. Un trio dynamique qui me permet de transformer les idées en réalités digitales captivantes
 
                     </p> 
                 <div>
