@@ -25,9 +25,9 @@ const HeaderSection = () => {
                     // Same substring at the start will only be typed out once, initially
                     'UX Designer',
                     1000, // wait 1s before replacing 
-                    'Développeur web',
+                    'Développeur',
                     1000,
-                    'Designer web',
+                    'Designer',
                     1000,
                     'Gamer',
                     1000
