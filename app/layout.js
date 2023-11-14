@@ -4,8 +4,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'White mamba',
-  description: 'Portfolio Dagory Damien',
+  title: 'Portfolio Dagory Damien',
+  description: 'Présentation et réalisation de projets professionnels ou personnels ',
 }
 
 export default function RootLayout({ children }) {
