@@ -50,7 +50,7 @@ Photoshop, Procreate, Adobe Xd et Canva sont mes alliés de choix en design, cha
                     Contact
                     </Link>
                     <Link
-                    href="https://drive.google.com/file/d/1rW6atrWfXEvAvHAiZ1Uk0FiOp47zLsnr/view"
+                    href="https://drive.google.com/file/d/1whCZ-wv8E1u5r_tpYx3s0I4X1t0Ortlk/view?usp=sharing"
                     className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-400 hover:bg-slate-800 text-white mt-3"
                     target="_blank"
                     rel="noopener noreferrer"

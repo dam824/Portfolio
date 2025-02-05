@@ -60,6 +60,43 @@ const projectsData = [
         gitUrl: "/",
         previewUrl: "https://kconceptcoiffure.fr/"
     },
+    {
+        id: 7,
+        title: "Design",
+        description: "Projet Design",
+        image:"/images/projects/europbots.png",
+        tag: ['Tous mes projets', 'Design'],
+        gitUrl: "/",
+        previewUrl: "https://europbots.com/"
+    },
+    {
+        id: 8,
+        title: "Design",
+        description: "Projet Design",
+        image:"/images/projects/azul.png",
+        tag: ['Tous mes projets', 'Design'],
+        gitUrl: "/",
+        previewUrl: "https://redcatstudio.fr/Azul"
+    },
+    {
+        id: 9,
+        title: "Design",
+        description: "Projet Design",
+        image:"/images/projects/harmonia.png",
+        tag: ['Tous mes projets', 'Design'],
+        gitUrl: "/",
+        previewUrl: "https://harmonia-transports.fr/"
+    },
+    {
+        id: 10,
+        title: "Design",
+        description: "Projet Design",
+        image:"/images/projects/prometal.png",
+        tag: ['Tous mes projets', 'Design'],
+        gitUrl: "/",
+        previewUrl: "https://prometal-13.fr/"
+    },
+   
 ]
 
 const ProjectsSection = ({ imgUrl, title, description }) => {

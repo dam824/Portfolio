@@ -9,11 +9,13 @@ const TAB_DATA = [
         id:"compétences",
         content: (
             <ul className="list-disc pl-2">
-                <li>HTML / CSS</li>
-                <li>JS</li>
-                <li>Stack Mean</li>
+                <li>HTML / CSS </li>
+                <li>PHP</li>
+                <li>Javascript</li>
+                <li>React</li>
                 <li>NextJS</li>
                 <li>Symfony</li>
+                <li>Wordpress</li>
             </ul>
         ),
     },
@@ -32,7 +34,9 @@ const TAB_DATA = [
         id:"expériences",
         content: (
             <ul className="list-disc pl-2">
-                <li>Développeur web agence Mcom Marseille</li>
+                <li>Développeur front-end Redcat Studio Paris</li>
+                <li>Développeur front-end agence EpressPack Paris</li>
+                <li>Développeur front-end agence Mcom Marseille</li>
                 <li>Designer web K-concept coiffure</li>
             </ul>
         ),
