@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.damiendagory.fr/api/sitemap
+Sitemap: https://damiendagory.fr/api/sitemap
