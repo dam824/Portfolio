@@ -5,6 +5,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
+  metadataBase: new URL("https://www.damiendagory.fr"),
   title: "Dagory Damien | Création de sites vitrines, e-commerce & SEO",
   description: "Développeur web freelance expert en création de sites vitrines, e-commerce et plateformes SaaS. Optimisation SEO et performance web pour les entreprises et indépendants. Disponible en Val-d’Oise (Franconville, Sannois, Argenteuil) et en Vendée (Les Herbiers, Cholet, Les Epesses, Chemillé, Angers).",
   keywords: "Création site vitrine, création site e-commerce, développement SaaS, optimisation SEO, refonte site web, développeur web Val-d’Oise, développeur web Vendée, Franconville, Sannois, Argenteuil, Les Herbiers, Cholet, Next.js, WordPress, PHP",
@@ -16,7 +17,7 @@ export const metadata = {
     siteName: "Dagory Damien Portfolio",
     images: [
       {
-        url: "https://www.damiendagory.fr/images/preview.png",
+        url: "/images/preview.png",
         width: 1200,
         height: 630,
         alt: "Portfolio de Dagory Damien",
