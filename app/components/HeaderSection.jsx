@@ -1,9 +1,8 @@
 "use client";
-import React from "react";
-import Image from "next/image";
-import { TypeAnimation } from 'react-type-animation';
 import { motion } from "framer-motion";
+import Image from "next/image";
 import Link from "next/link";
+import { TypeAnimation } from 'react-type-animation';
 
 const HeaderSection = () => {
     return (
@@ -38,8 +37,17 @@ const HeaderSection = () => {
                     />
                 </h1>
                     <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-                    Créateur de solutions digitales, je suis polyvalent avec la conceptualisation de design UI/UX, le référencement, ainsi que le développement et la maintenance de projets web, que ce soit en front-end ou back-end.
-Photoshop, Procreate, Adobe Xd et Canva sont mes alliés de choix en design, chacun apportant sa touche de magie à mes créations. Côté développement, j’ai une préférence pour les framework NextJS, Angular et Symfony. Un trio dynamique qui me permet de transformer les idées en réalités digitales captivantes
+                    J’accompagne les entrepreneurs et entreprises du Val-d’Oise dans la création de sites vitrines, e-commerce et plateformes SaaS sur mesure.
+                    <br />
+<br />SEO & visibilité : soyez en tête des recherches !<br />
+Un site web, c’est bien. Un site qui attire des clients, c’est mieux. J’optimise chaque ligne de code pour que votre entreprise se démarque sur Google et gagne en visibilité dans votre région.
+<br /><br />
+Audit & conformité web : protégez votre investissement<br />
+Je vérifie que votre site respecte les standards SEO, la vitesse de chargement et les obligations RGPD. Pas de mauvaise surprise, votre projet est entre de bonnes mains.
+<br /><br />
+Next.js, Symfony, WordPress… Peu importe la techno, le but est simple : un site performant, un référencement qui cartonne.
+<br /><br />
+Besoin d’un site qui génère du business ou d’un audit SEO précis ? Contactez-moi et boostons votre visibilité dès maintenant !
 
                     </p> 
                 <div>

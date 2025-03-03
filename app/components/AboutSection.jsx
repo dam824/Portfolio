@@ -60,11 +60,14 @@ const AboutSection = () => {
             <div className='className="mt-4 md:mt-0 text-left flex flex-col h-full'>
                 <h2 className='text-4xl font-bold text-white mb-4'>A propos de moi</h2>
                     <p className='text-base md:text-lg'>
-                    Ma carrière a pris un tournant décisif lorsque j&apos;ai décidé de suivre ma passion et de me consacrer entièrement au développement, un domaine où la créativité trouve son plein épanouissement.
+                    Apprendre, tester, optimiser : un parcours 100% terrain
+Autodidacte et passionné, j’ai forgé mes compétences en explorant sans relâche les meilleures technologies web et en testant ce qui fonctionne vraiment pour booster la visibilité en ligne.
+<br /> Aujourd’hui, je conçois des sites ultra-performants et j’optimise leur SEO pour les entreprises du Val-d’Oise et de Vendée, leur permettant d’attirer plus de clients et de dominer leur marché local.
 
-Animé par une soif d&apos;apprendre et une curiosité sans fin, j&apos;ai acquis mes compétences de manière autodidacte, explorant et expérimentant pour comprendre en profondeur ce domaine fascinant.
+Mon approche : allier technique et stratégie SEO<br />
+Un site, c’est bien. Un site rapide, optimisé et visible sur Google, c’est mieux. <br />Chaque projet que je développe est conçu pour convertir et générer du business, en combinant un code robuste et une stratégie SEO efficace.
 
-Ce que j&apos;apprécie particulièrement, c&apos;est de transformer mon travail en un hobby passionnant. Le développement pour moi, c&apos;est plus qu&apos;un métier, c&apos;est une véritable passion qui me permet de m&apos;exprimer et de créer. 
+Plus qu’un métier, c’est un défi quotidien : repousser les limites du web et du référencement pour des résultats concrets.
                     </p>
                 <div className='flex flex-row justify-start mt-8'>
                     <TabButton
