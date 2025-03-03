@@ -53,46 +53,46 @@ const projectsData = [
     },
     {
         id: 6,
-        title: "Design",
-        description: "Projet Design",
+        title: "Site Vitrine",
+        description: "Projet Site Vitrine",
         image:"/images/projects/kconcept.png",
-        tag: ['Tous mes projets', 'Design'],
+        tag: ['Tous mes projets', 'Site Vitrine'],
         gitUrl: "/",
         previewUrl: "https://kconceptcoiffure.fr/"
     },
     {
         id: 7,
-        title: "Design",
-        description: "Projet Design",
+        title: "Site Vitrine",
+        description: "Projet Site Vitrine",
         image:"/images/projects/europbots.png",
-        tag: ['Tous mes projets', 'Design'],
+        tag: ['Tous mes projets', 'Site Vitrine'],
         gitUrl: "/",
         previewUrl: "https://europbots.com/"
     },
     {
         id: 8,
-        title: "Design",
-        description: "Projet Design",
+        title: "Site Vitrine",
+        description: "Projet Site Vitrine",
         image:"/images/projects/azul.png",
-        tag: ['Tous mes projets', 'Design'],
+        tag: ['Tous mes projets', 'Site Vitrine'],
         gitUrl: "/",
         previewUrl: "https://redcatstudio.fr/Azul"
     },
     {
         id: 9,
-        title: "Design",
-        description: "Projet Design",
+        title: "Site Vitrine",
+        description: "Projet Site Vitrine",
         image:"/images/projects/harmonia.png",
-        tag: ['Tous mes projets', 'Design'],
+        tag: ['Tous mes projets', 'Site Vitrine'],
         gitUrl: "/",
         previewUrl: "https://harmonia-transports.fr/"
     },
     {
         id: 10,
-        title: "Design",
-        description: "Projet Design",
+        title: "Site Vitrine",
+        description: "Projet Site Vitrine",
         image:"/images/projects/prometal.png",
-        tag: ['Tous mes projets', 'Design'],
+        tag: ['Tous mes projets', 'Site Vitrine'],
         gitUrl: "/",
         previewUrl: "https://prometal-13.fr/"
     },
@@ -137,8 +137,8 @@ const ProjectsSection = ({ imgUrl, title, description }) => {
       isSelected={tag === "API"}  
       />
        <ProjectTag 
-      onClick={handleTagChange} name="Design" 
-      isSelected={tag === "Design"}  
+      onClick={handleTagChange} name="Site Vitrine" 
+      isSelected={tag === "Site Vitrine"}  
       />
        
     </div>
