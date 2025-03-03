@@ -96,6 +96,15 @@ const projectsData = [
         gitUrl: "/",
         previewUrl: "https://prometal-13.fr/"
     },
+    {
+        id: 11,
+        title: "Sass",
+        description: "Projet Sass",
+        image:"/images/projects/nanterre-dom.png",
+        tag: ['Tous mes projets', 'Sass'],
+        gitUrl: "https://github.com/dam824/nanterre-dom-tool",
+        previewUrl: "https://prometal-13.fr/"
+    }
    
 ]
 
@@ -139,6 +148,10 @@ const ProjectsSection = ({ imgUrl, title, description }) => {
        <ProjectTag 
       onClick={handleTagChange} name="Site Vitrine" 
       isSelected={tag === "Site Vitrine"}  
+      />
+       <ProjectTag 
+      onClick={handleTagChange} name="Sass" 
+      isSelected={tag === "Sass"}  
       />
        
     </div>
